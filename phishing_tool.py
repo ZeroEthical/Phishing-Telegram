@@ -6,7 +6,7 @@ import time
 # ============================================================================
 # Telegram Credential Harvester - GUI Edition
 #
-# Created by: ZeroEthical (with GUI enhancements by Jules)
+# Created by: ZeroEthical
 # Purpose: This tool is for educational purposes to demonstrate social
 #          engineering attacks. It collects Telegram API credentials.
 #          Unauthorized access to computer systems is illegal.
