@@ -1,6 +1,6 @@
 # 😈 Telegram Credential Harvester (GUI Edition) 🔥
 
-![ZeroEthical Signature](https://img.shields.io/badge/Created%20By-ZeroEthical%20%26%20Jules-black.svg)
+![ZeroEthical Signature](https://img.shields.io/badge/Created%20By-ZeroEthical%20%26%20-black.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 ![License](https://img.shields.io/badge/License-Unlicensed-red.svg)
 
