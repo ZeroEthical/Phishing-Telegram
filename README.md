@@ -1,4 +1,4 @@
-# 😈 Telegram Credential Harvester (GUI Edition) - By ZeroEthical & Jules 🔥
+# 😈 Telegram Credential Harvester (GUI Edition) 🔥
 
 ![ZeroEthical Signature](https://img.shields.io/badge/Created%20By-ZeroEthical%20%26%20Jules-black.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
