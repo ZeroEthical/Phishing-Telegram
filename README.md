@@ -84,4 +84,4 @@ El uso de esta herramienta para actividades ilícitas es responsabilidad exclusi
 ---
 
 Desarrollado para la comprensión de los ataques de ingeniería social.
-*Concepto original por **ZeroEthical**. Mejoras de GUI y automatización por **Jules**.*
+*Concepto original por **ZeroEthical**. Mejoras de GUI y automatización.*
